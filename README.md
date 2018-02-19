@@ -1,2 +1,1 @@
-# myname
-meredukan
+# Project not ready yet
